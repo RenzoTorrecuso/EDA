@@ -27,7 +27,7 @@ HIPOTHESYS
 ## How to navigate the notebook EDA_safe.
 
 In the mentioned notebook you will find comments at each cell on the progression of what I did from uploading the data to the conclusion. Please have in mind that:
-* If you crun the code, you will notice a duplicate of a static image right after the interactive plotly maps.
+* If you run the code, you will notice a duplicate of a static image right after the interactive plotly maps.
 * If you just check the code here in GitHub the images are static and non interactive, but are a snapshot of how they look when ploted
 * I encourage you to run the code so that you can zoom in and check all the information that pop up by passing the mouse at each address. 
 
