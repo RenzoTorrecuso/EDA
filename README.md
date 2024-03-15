@@ -1,9 +1,7 @@
 
 
 # EDA & Data Analysis project
-
-Below you will find a simulation of a EDA and data analysis service for a client searching the best strategy for his buying needs.
-
+In the notebook EDA_safe(1).ipynb you will find a simulation of a EDA and data analysis service for a client searching the best strategy for his buying needs.
 The client profile:
 
 * He is a Seller.
