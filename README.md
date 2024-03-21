@@ -1,7 +1,17 @@
+ Dear Visitor,
+ 
+ Thank you for passing by.
+ 
+ In the README below you will find all intructions and purposes of this project.
+ Please feel free to make comments, corrections or suggestions.
+ 
+ All best wishes,
+ 
+ Renzo
 
 
 # EDA & Data Analysis project
-In the notebook EDA_safe(1).ipynb you will find a simulation of a EDA and data analysis service for a client searching the best strategy for his buying needs.
+In the notebook EDA.ipynb you will find a simulation of an EDA and data analysis service for a client searching the best strategy for his buying needs.
 The client profile:
 
 * He is a Seller.
